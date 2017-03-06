@@ -2,6 +2,12 @@
 	"packageUrl" : "https://raw.githubusercontent.com/JackieLong/HotUpdateTest/master/res",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/JackieLong/HotUpdateTest/master/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/JackieLong/HotUpdateTest/master/version.manifest",
-	"version" : "1.0.0",
+	"version" : "0.0.9",
 	"engineVersion" : "3.0 beta",
+
+	"assets" : {
+	},
+    
+    "searchPaths" : [
+    ]
 }
